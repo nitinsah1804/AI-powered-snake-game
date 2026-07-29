@@ -1,2 +1,0 @@
-pygame-ce>=2.5.7
-pygame-gui>=0.6.14
