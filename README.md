@@ -44,7 +44,7 @@ Make sure you have Python installed (3.8 or higher is recommended).
 
 1. Clone the repository
 
-git clone https://github.com/nitinsah1804/AI-powered-snake-game/edit/main/README.md
+git clone https://github.com/nitinsah1804/AI-powered-snake-game
 cd ai-snake-game
 
 
